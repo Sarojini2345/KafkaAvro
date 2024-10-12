@@ -1,0 +1,7 @@
+com\kafka\avro\dto\Employee$Builder.class
+com\kafka\avro\controller\EventController.class
+com\kafka\avro\KafkaSchemaRegistryApplication.class
+com\kafka\avro\consumer\KafkaAvroConsumer.class
+com\kafka\avro\config\KafkaConfig.class
+com\kafka\avro\dto\Employee.class
+com\kafka\avro\producer\KafkaAvroProducer.class
